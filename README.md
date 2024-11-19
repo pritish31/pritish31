@@ -4,9 +4,11 @@
 
 <!--
 **pritishkamble7/pritishkamble7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your About Me section.
--->
+
+<!--
 ![Alt Text](all_images/55d4e012-b999-45ab-b9c7-8ebc91fff381.png)
 ![My Avatar](assets/avatar.png)
+-->
 
 # Hi! I'm Pritish Kamble 👋
 😄 Pronouns: He/Him.  
