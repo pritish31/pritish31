@@ -10,17 +10,22 @@
 ![My Avatar](assets/avatar.png)
 
 # Hi! I'm Pritish Kamble 👋
+😄 Pronouns: He/Him.  
 
 ### Data Scientist | Data Enthusiast 💻
 
 ### 🏫 Education  
 
-🔭 I recently worked on resolving employee record inconsistencies for JerseySTEM using AppSheet, SQL, and Looker, which resulted in an 11% reduction in inefficiencies.  
+🔭 I recently worked on resolving employee record inconsistencies for JerseySTEM using AppSheet, SQL, and Looker, which resulted in an 11% reduction in inefficiencies.
+
 🌱 I graduated in January 2024 with a Master of Science in **Data Science** from the University at Buffalo.
+
 👯 I'm open to collaborating on projects involving data analysis, building machine learning pipelines, or any innovative software solutions.  
+
 💬 Ask me about anything related to **Python, R, SQL, PostgreSQL, Power BI, Tableau**, AppSheet, Data Science, **Machine Learning, LLms and GenAI**.
+
 📫 How to reach me: pritishkamble7@gmail.com | [LinkedIn](https://www.linkedin.com/in/pritishkamble/)  
-😄 Pronouns: He/Him.  
+
 ⚡ Fun fact: I was the captain of my university cricket team and love combining strategy on the field with data-driven decision-making.  
 
 ---
