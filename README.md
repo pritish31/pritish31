@@ -30,7 +30,7 @@
 ---
 
 ### 🏫 Education  
-- **Master of Science in Data Science**, University at Buffalo, NY (Jan 2024)  
+- **Master of Science in Data Science**, University at Buffalo, NY (Graduated Jan 2024)  
 - **Master of Engineering in Electronics & Telecommunication**, Mumbai University, India (Aug 2016 - Feb 2019)
 - **Bachelor of Engineering in Electronics & Telecommunication**, Dr. Bamu University, India (Aug 2011 - Feb 2016)
   
