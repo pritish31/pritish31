@@ -10,8 +10,8 @@
 ![My Avatar](assets/avatar.png)
 -->
 
-# Hi! I'm Pritish Kamble 👋
-😄 Pronouns: He/Him.  
+# Hi! I'm Pritish 👋😄
+Pronouns: He/Him.  
 
 ### Data Scientist | Data Enthusiast 💻
 
