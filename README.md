@@ -64,5 +64,5 @@
 ### 📫 Let's Connect!  
 Feel free to reach out if you're looking for a collaborator, have a question, or just want to say hi. I'm always open to discussing new projects and ideas.  
 - **Email**: pritishkamble7@gmail.com  
-- **LinkedIn**: [linkedin.com/in/pritishkamble](https://www.linkedin.com/in/pritishkamble/)  
+- **LinkedIn**: [linkedin.com/in/pritishkamble](https://www.linkedin.com/in/pritish-kamble)  
 
