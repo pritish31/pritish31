@@ -15,8 +15,6 @@
 
 ### Data Scientist | Data Enthusiast 💻
 
-### 🏫 Education  
-
 🔭 I recently worked on resolving employee record inconsistencies for JerseySTEM using AppSheet, SQL, and Looker, which resulted in an 11% reduction in inefficiencies.
 
 🌱 I graduated in January 2024 with a Master of Science in **Data Science** from the University at Buffalo.
