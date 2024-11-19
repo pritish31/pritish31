@@ -6,7 +6,7 @@
 <!--
 **pritishkamble7/pritishkamble7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your About Me section.
 -->
-![Alt Text](path/to/your/image.png)
+![Alt Text](55d4e012-b999-45ab-b9c7-8ebc91fff381.webp)
 ![My Avatar](assets/avatar.png)
 
 # Hi! I'm Pritish Kamble 👋
