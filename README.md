@@ -23,7 +23,7 @@
 
 💬 Ask me about anything related to **Python, R, SQL, PostgreSQL, Power BI, Tableau**, AppSheet, Data Science, **Machine Learning, LLms and GenAI**.
 
-📫 How to reach me: pritishkamble7@gmail.com | [LinkedIn](https://www.linkedin.com/in/pritishkamble/)  
+📫 How to reach me: pritishkamble7@gmail.com | [LinkedIn](https://www.linkedin.com/in/pritish-kamble)  
 
 ⚡ Fun fact: I was the captain of my university cricket team and love combining strategy on the field with data-driven decision-making.  
 
