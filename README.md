@@ -63,9 +63,10 @@ Pronouns: He/Him.
 ### 📚 Research
 I have extensive research experience in electromagnetic engineering, specifically in broadband microstrip antennas, with 11 research papers published in reputed journals and conferences such as IEEE, Springer, and Science Direct. Highlights of my work include:
 
-[1] Pioneering a novel 120° Sectoral Microstrip Antenna design that doubled bandwidth compared to traditional CMSA designs.
-[2] Engineering gap-coupled variations of sectoral microstrip antennas to achieve bandwidths of up to 1,000 MHz with enhanced gain.
-[3] Co-authoring 11 research papers, including "Multi-Resonator Variations of 120° Sectoral Microstrip Antennas for Wider Bandwidth" (Springer) and "Gap-Coupled Variations of 120° Sectoral Shape Microstrip Antennas for Wideband Response" (IEEE Xplore).
+[1] Pioneering a novel 120° Sectoral Micrsostrip Antenna design that doubled bandwidth compared to traditional CMSA designs.
+[2] Engineering gap-coupled variations of sectoral microstrip antenna to achieve bandwidth of up to 1,000 MHz with enhanced gain.
+[3] Co-authored 11 research papers, including "Multi-Resonator Variations of 120° Sectoral Microstrip Antennas for Wider Bandwidth" (Springer) and "Gap-Coupled Variations of 120° Sectoral Shape Microstrip Antennas for Wideband Response" (IEEE Xplore).
+
 ---
 
 ### 📫 Let's Connect!  
