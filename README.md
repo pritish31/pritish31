@@ -36,13 +36,17 @@ Pronouns: He/Him.
 ---
 ### 💼 Experience  
 - **Data Scientist**, JerseySTEM (July 2024 - Present)  
-  Conducted exploratory data analysis, built predictive models, and resolved over 30 data inconsistencies.  
+  Conducted exploratory data analysis, built predictive models, and resolved over 30 data inconsistencies.
+  
 - **Prompt Engineer**, Outlier.ai (October 2024 - Present)  
-  Evaluated and corrected responses from LLMs for mathematical, Python, and SQL questions.  
+  Evaluated and corrected responses from LLMs for mathematical, Python, and SQL questions.
+  
 - **Freelance Developer and Data Analyst** (July 2021 - May 2022)  
   Built dashboards and real-time tracking apps, improving workflow efficiency by 20%.
-- **Data Analyst, Codewrap Software Solutions** (Oct 2017 - Dec 2019)
+  
+- **Data Analyst, Codewrap Software Solutions** (Oct 2017 - Dec 2019)  
   Designed and implemented predictive models to identify credit card account defaults.
+  
   
 ---
 ### 🛠 Skills  
@@ -63,8 +67,7 @@ I have extensive research experience in electromagnetic engineering, specificall
 
 💡 Pioneering a novel 120° Sectoral Micrsostrip Antenna design that doubled bandwidth compared to traditional CMSA designs.
 💡 Engineering gap-coupled variations of sectoral microstrip antenna to achieve bandwidth of up to 1,000 MHz with enhanced gain.
-💡 Co-authored 11 research papers, including "Multi-Resonator Variations of 120° Sectoral Microstrip Antennas for Wider Bandwidth" (Springer) and "Gap-Coupled Variations   
-   of 120° Sectoral Shape Microstrip Antennas for Wideband Response" (IEEE Xplore).
+💡 Co-authored 11 research papers, including "Multi-Resonator Variations of 120° Sectoral Microstrip Antennas for Wider Bandwidth" (Springer) and "Gap-Coupled Variations of 120° Sectoral Shape Microstrip Antennas for Wideband Response" (IEEE Xplore).
 
 ---
 
