@@ -42,7 +42,7 @@ Pronouns: He/Him.
 - **Freelance Developer and Data Analyst** (July 2021 - May 2022)  
   Built dashboards and real-time tracking apps, improving workflow efficiency by 20%.
 - **Data Analyst, Codewrap Software Solutions** (Oct 2017 - Dec 2019)
-  •	Designed and implemented predictive models to identify credit card account defaults.
+  Designed and implemented predictive models to identify credit card account defaults.
   
 ---
 ### 🛠 Skills  
